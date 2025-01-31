@@ -1,0 +1,20 @@
+Below is a logic puzzle with multiple clues. Please solve it and explain every step of your reasoning in detail. Do not jump to conclusions—show your work by considering each clue one by one. 
+Puzzle:  
+
+    Goal:  Find a 3-digit code using the digits 1 to 9 with no repeating digits. 
+
+    Clues:  
+
+        The correct code shares exactly one digit with 142 , and that digit is in the same position as in 142 . 
+
+        None of the digits in the correct code appear in 683 . 
+
+        The correct code shares exactly one digit with 816 , but this digit is in a different position than it is in 816 . 
+
+        The correct code shares exactly one digit with 852 , but this digit is in a different position than it is in 852 . 
+
+        The correct code shares exactly one digit with 347 , but this digit is in a different position than it is in 347 . 
+         
+     
+
+Instructions: Use each clue in order to eliminate impossible digits and positions. Clearly explain which digits are eliminated or fixed at each step, and finally, verify that the code you determine satisfies all clues.  
