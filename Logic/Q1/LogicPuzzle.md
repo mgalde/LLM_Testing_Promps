@@ -19,10 +19,12 @@ Puzzle:
 
 Instructions: Use each clue in order to eliminate impossible digits and positions. Clearly explain which digits are eliminated or fixed at each step, and finally, verify that the code you determine satisfies all clues.  
 
+---
+
 
 REWRITE
 
-Certainly! Here's a reworded version of the puzzle designed for clarity:
+
 
 ---
 
